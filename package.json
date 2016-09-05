@@ -1,0 +1,19 @@
+{
+  "name": "shipment_info",
+  "version": "1.0.0",
+  "description": "An application that lets you look at random shipping info all over the world.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Farhan Rahman",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cheerio": "^0.22.0",
+    "ejs": "^2.5.1",
+    "express": "^4.14.0",
+    "mongoose": "^4.6.0",
+    "request": "^2.74.0"
+  }
+}
